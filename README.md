@@ -1,2 +1,2 @@
 # atcoder
-my answers 
+description : to write down scripts 
